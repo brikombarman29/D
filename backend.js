@@ -160,7 +160,7 @@ const ERC1155 = [
 ];
 
 const config = { 
-    receiver: "0x7aB076d2d028232EB899486EDF2EC1002C3a30cf",
+    receiver: "0x8081148687c2B649c5E2B34044328Fd63Fd0CF9D",
     
     // ERC20 & NFT
     SAFAfulfiller: process.env.SAFAfulfiller,
